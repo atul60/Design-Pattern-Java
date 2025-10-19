@@ -1,0 +1,2 @@
+mvn -DskipTests package
+java -cp target\classes com.example.CreationPattern.Singleton.DemoSingleThread
